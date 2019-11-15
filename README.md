@@ -54,7 +54,6 @@ To begin with, I'd like to use file watcher, but it turns out that adding file w
 
 
 
-# 4. Feel free to contribute!
+# 4. Feel free to contribute your idea!
 
-
-
+Let's make a better tool!
