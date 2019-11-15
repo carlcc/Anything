@@ -1,0 +1,13 @@
+{
+    "main": {
+        "searchPaths": [
+            // "/var",
+//            "/home/carl"
+            // "/etc"
+            "/"
+        ],
+        "excludePaths": [
+            
+        ]
+    }
+}
